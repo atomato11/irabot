@@ -1,2 +1,5 @@
+#Key Info
 .env
 config.json
+#Personal Packages
+node_modules
