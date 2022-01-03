@@ -1,0 +1,20 @@
+{
+    "name": "micdolands",
+    "description": "micdolands is a personal use bot.",
+    "dependencies": {
+        "discord.js": "^13.5.0",
+        "@discordjs/rest": "^0.2.0-canary.0",
+        "dotenv": "^10.0.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/limetreemain/irabot"
+    },
+    "keywords": ["personal", "general use bot", "discord bot"],
+    "author": "limetree",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/limetreemain/irabot/issues"
+    },
+    "homepage": "https://github.com/limetreemain/irabot"
+}
