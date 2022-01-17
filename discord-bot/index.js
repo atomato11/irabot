@@ -3,8 +3,8 @@ const client = new Discord.client;
 
 const fs = require('fs');
 const { Client, Itents } = require('discord.js');
-const mySecret = process.env['TOKEN']
-// const { token } = require('./config.json');
+// const mySecret = process.env['TOKEN']
+const { token } = require('./config.json');
 
 const client = new Client({intents: [Intents.FLAGS.GUILDS] });
 
