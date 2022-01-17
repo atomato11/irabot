@@ -3,3 +3,4 @@
 config.json
 #Personal Packages
 node_modules
+.replit
